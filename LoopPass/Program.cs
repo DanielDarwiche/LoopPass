@@ -143,7 +143,7 @@ namespace LoopPass
                             }
                         }
                     }
-                }
+                } 
             }
             Console.WriteLine("Saved to DB - " + timer.Elapsed.ToString());
             timer.Stop();
